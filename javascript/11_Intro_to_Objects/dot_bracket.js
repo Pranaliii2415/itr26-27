@@ -5,7 +5,7 @@ const person = {
 }
 
 
-console.log(person.person hobbie); // invalid error
+
 
 console.log(person["person hobbie"]);
 
